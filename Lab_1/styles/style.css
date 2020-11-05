@@ -7,6 +7,55 @@ h1{
     font-size: 46px;
     color: #d7ba7d;
 }
+
+h2{
+    font-size: 20px;
+    text-align: center;
+    color: #d7ba7d;
+    margin-top: 0;
+    margin-bottom: 40px;
+    line-height: 0;
+
+}
+
+h3{
+    font-size: medium;
+    text-align: right;
+    font-weight: normal;
+}
+
+h4{
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+    
+}
+
+p.indent{
+    text-indent: 30px;
+}
+
+p.far_indent{
+    margin-left: 65%;
+    text-indent: 0;
+}
+
+a.option_link{
+    text-decoration: none;
+}
+
+table, th, td{
+    border: 1px #d7ba7d solid;
+}
+
+textarea{
+    resize: none;
+    height:16px;
+    width: 180px;
+}
+
 #container{
     width: 1000px;
     background-color: #252525;
@@ -32,23 +81,31 @@ h1{
 
 #sidebar_menu{
     width: 200px;
-    clear: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    clear:left;
     float: left;
 }
 
 #content {
     width: 600px;
-    margin-left: 100px;
-    margin-right: 100px;
-    text-align: justify;
+    margin: 20px 100px 20px 100px;
+    font-size: medium;
+    line-height: 1.6;
     float: left;
 }
 
 #footer {
-    clear:left;
     padding: 15px;
     color: #858585;
     text-align: center;
+    clear:left;
+}
+
+#troj_wart_tryg{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .sidebar_option{
@@ -58,5 +115,12 @@ h1{
     color: #1e1e1e;
     background-color: #d7ba7d;
     text-align: center;
-    border: 1px #d7ba7d solid;
+}
+
+.sidebar_option:hover{
+    background-color: #b5985b;
+}
+
+.centered{
+    text-align: center;
 }

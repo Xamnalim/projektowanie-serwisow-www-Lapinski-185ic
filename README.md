@@ -43,10 +43,24 @@ Stronę wykonałem od podstaw samemu. Nie chciałem korzystać na razie z żadne
  W pierwszej części zmodyfikowanej wersji strony, poza zmianami w stylizacji wprowadziłem prostą animowaną galerię.
  ![alt text](Lab_2/screeny/after_2.png)
  Na drugiej części widać same nowe elementy. Przy pomocy JS'a dodałem zupełnie nowe dwa artykuły oraz stopkę.
- 
- **Komentarz:**
-Stronę wykonałem od podstaw samemu. Nie chciałem korzystać na razie z żadnego szablonu żeby dobrze zrozumieć podstawy HTML i CSS.
 
 **Komentarz:**
 Do realizacji zadania starałem się wykorzystać jak najwięcej metod i wszelakich sposobów tworzenia, modyfikacji i usuwania elementów strony.
 Wiem że większość z tych rozwiązań jest bez sensu w praktycznym zastosowaniu, jednak na potrzeby laboratorium starałem się po prostu przetestować jak najwięcej funkcjonalności.
+
+## Lab 3
+**Cel:**
+1. wykonać [zadania z JavaScript - część 1](https://github.com/kartofelek007/zadania-podstawy/tree/master/3-funkcje/1-zadania)
+2. za pomocą metody addEventListener należy obsłużyć 10 różnych wybranych zdarzeń
+
+**Ad 1.**
+Poniżej pzedstawione są efekty działania kodu [app.js](Lab_3/Zadania/scripts/app.js)
+
+Zadania 1-6
+![alt text](Lab_3/Zadania/screeny/zad_1-6.png)
+Zadania 7-8
+![alt text](Lab_3/Zadania/screeny/zad_7-8.png)
+Zadanie 9
+![alt text](Lab_3/Zadania/screeny/zad_9.png)
+
+**Ad 2.**

@@ -1,0 +1,8 @@
+textarea.form-control-lg{
+    resize: none;
+    width: 100%;
+}
+
+button{
+    margin: 5px;
+}

@@ -64,3 +64,9 @@ Zadanie 9
 ![alt text](Lab_3/Zadania/screeny/zad_9.png)
 
 **Ad 2.**
+Tak prezentuje się strona
+![alt text](Lab_3/Obsługa_zdarzeń/screeny/wyglad_strony.png)
+Tak prezentuje się wynik interakcji z nią
+![alt text](Lab_3/Obsługa_zdarzeń/screeny/console.png)
+![alt text](Lab_3/Obsługa_zdarzeń/screeny/fraza.png)
+![alt text](Lab_3/Obsługa_zdarzeń/screeny/wyszukana_fraza.png)

@@ -1,0 +1,19 @@
+body{
+    background-color: #333333;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+h1{
+    font-size: 46px;
+    color: #d7ba7d;
+}
+
+h2{
+    font-size: 20px;
+    color: #d7ba7d;
+
+}
+
+a{
+    color: lightblue;
+}

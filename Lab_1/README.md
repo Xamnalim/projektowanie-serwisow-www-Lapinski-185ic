@@ -8,18 +8,18 @@
   - na stronie startowej należy umieścić informację o autorze oraz opcjonalnie np. logo, informacje o użytych technologiach itp
   
 ## Efekty pracy
- ![alt text](screeny/o_mnie.png)
+ ![alt text](screeny/o_mnie.png)\
  Strona główna zawierająca krótki tekst powitalny.
  Po lewej stronie znajduje się pasek nawigacyjny do pozostałych podstron.\
- ![alt text](screeny/list.png)
+ ![alt text](screeny/list.png)\
  Przykładowy list z zastosowanym formatowaniem tekstu.
  Na zrzucie nie widać nagłówka, ale jest on identyczny jak w pozostałych podstronach.\
  Został obcięty ponieważ strona jest na tyle mała że nie było sensu dzielić zrzutów na dwoje.\
- ![alt text](screeny/podręcznik_1.png) 
- ![alt text](screeny/podręcznik_2.png)
+ ![alt text](screeny/podręcznik_1.png)\
+ ![alt text](screeny/podręcznik_2.png)\
  Krótka strona przedstawiająca niektóre własności trójkąta prostokątnego.\
  Do wykonania składni matematycznej wykorzystałem bibliotekę Mathjax.\
- ![alt text](screeny/formularz.png)
+ ![alt text](screeny/formularz.png)\
  Ostatnia podstrona zawierająca prosty formularz zgłoszeniowy.
 
 **Komentarz:**

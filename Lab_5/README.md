@@ -36,21 +36,21 @@
 - nie używamy async/await
 
 ## Efekty pracy
-**Wygląd strony**
-![alt text](screeny/site.png)
-**Ad. 1**
-Funkcja getMyObj stosuje metodę callback na objekcie podanym jako pierwszy parametr funkcji.
-![alt text](screeny/task_1.png)
-**WAŻNE!**
-W każdej funkcji task(2-6), funkcja oczekuje id usera do pobrania z [JSON Placeholder](https://jsonplaceholder.typicode.com/users), oraz funkcji callback która zostanie wywołana na pobranym obiekcie.
-Utworzyłem dwie funkcje (addTwoNumbers i createNewObject), które będą dalej stosowane jako funkcje callback. Pobierają one dwa wybrane wartości z obiektów userData i wykonują na nich odpowiednie operacje (których efekt jest wyświetlany za pomocą console.log()).
-**Ad. 2**
-![alt text](screeny/task_2.png)
-**Ad. 3**
-![alt text](screeny/task_3.png)
-**Ad. 4**
-![alt text](screeny/task_4.png)
-**Ad. 5**
-![alt text](screeny/task_5.png)
-**Ad. 6**
+**Wygląd strony**\
+![alt text](screeny/site.png)\
+**Ad. 1**\
+Funkcja getMyObj stosuje metodę callback na objekcie podanym jako pierwszy parametr funkcji.\
+![alt text](screeny/task_1.png)\
+**WAŻNE!**\
+W każdej funkcji task(2-6), funkcja oczekuje id usera do pobrania z [JSON Placeholder](https://jsonplaceholder.typicode.com/users), oraz funkcji callback która zostanie wywołana na pobranym obiekcie.\
+Utworzyłem dwie funkcje (addTwoNumbers i createNewObject), które będą dalej stosowane jako funkcje callback. Pobierają one dwa wybrane wartości z obiektów userData i wykonują na nich odpowiednie operacje (których efekt jest wyświetlany za pomocą console.log()).\
+**Ad. 2**\
+![alt text](screeny/task_2.png)\
+**Ad. 3**\
+![alt text](screeny/task_3.png)\
+**Ad. 4**\
+![alt text](screeny/task_4.png)\
+**Ad. 5**\
+![alt text](screeny/task_5.png)\
+**Ad. 6**\
 ![alt text](screeny/task_6.png)

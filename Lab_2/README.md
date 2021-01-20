@@ -5,14 +5,14 @@
 - użyć w wybranych przez siebie fragmentach kodu “trybu ścisłego” - use strict
   
 ## Efekty pracy
- ![alt text](screeny/before.png)
+ ![alt text](screeny/before.png)\
  Tak prezentuje się strona przed modyfikacjami dokonanymi za pomocą JavaScript.
  Do stylizowania strony wykorzystałem framework - bootstrap.\
  Na stronie znajduje się jedynie nagłówek i dwa artykuły.\
  Jeden z przykładowym tekstem i drugi z pojedynczym obrazkiem.\
- ![alt text](screeny/after_1.png)
+ ![alt text](screeny/after_1.png)\
  W pierwszej części zmodyfikowanej wersji strony, poza zmianami w stylizacji wprowadziłem prostą animowaną galerię.\
- ![alt text](screeny/after_2.png)
+ ![alt text](screeny/after_2.png)\
  Na drugiej części widać same nowe elementy. Przy pomocy JS'a dodałem zupełnie nowe dwa artykuły oraz stopkę.
 
 **Komentarz:**

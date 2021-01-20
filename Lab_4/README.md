@@ -8,9 +8,9 @@
   
 ## Efekty pracy
 Gra wygląda następująco. Wcielamy się w silnego drwala którego zadaniem jest ścięcie magicznego drzewa.\
-![alt text](screeny/start.png)
+![alt text](screeny/start.png)\
 Magicznego drzewa nie da się ściąć od razu, trzeba je ścinać kawałek po kawałku. Po każdym potężnym uderzeniu naszego drwala odpada kawałek pnia, a pozostała część drzewa spada na dół i ponownie łączy się z korzeniem.\
-![alt text](screeny/chop.png)
+![alt text](screeny/chop.png)\
 Naszym zadaniem jest zciąć jak największą ilość magicznego drzewa bez uszczerbku na zdrowiu. Należy uważać żeby gałąź nie spadła nam na głowę, bo gdy tak się stanie nasza postać traci przytomność i cały proces zcinania trzeba będzie zacząć od nowa.\
 ![alt text](screeny/game_over.png)
 

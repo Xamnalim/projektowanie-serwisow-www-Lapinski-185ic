@@ -1,0 +1,14 @@
+.todo-desc {
+    display: inline-block;
+    max-width: calc(100% - 13px);
+    vertical-align: text-top;
+    text-align: justify;
+}
+
+input {
+    float:right;
+}
+
+label {
+    width: 100%;
+}

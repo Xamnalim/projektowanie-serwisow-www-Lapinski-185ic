@@ -13,12 +13,12 @@ Aplikacja składa się z 3 "podstron":
 między którymi można poruszać się za pomocą paska nawigacyjnego ([BottomNavigation](https://material-ui.com/components/bottom-navigation/#bottom-navigation)) umieszczonego na dolnej części strony.
 Do przemieszczania się pomiędzy "podstronami" wykorzystałem react-router.
 Na "szczycie" każdej strony zostaje wyświetlony tytuł informujący gdzie aktualnie się zanjdujemy ([Typography](https://material-ui.com/components/typography/#typography)).\
-![alt text](screeny/home_1.png)
+![alt text](screeny/home.png)
 
 ### Home
 Home zawiera proste pole tekstowe ([TextField](https://material-ui.com/components/text-fields/#text-field)) które "prosi" o imię użytkownika.
 Komponent ten został podpięty do [ClickAwayListener](https://material-ui.com/components/click-away-listener/#click-away-listener), dzięki czemu po wyjściu z pola tekstowego na stronie zostanie wyświetlony komunikat ([Snackbar](https://material-ui.com/components/snackbars/#snackbar)). Ponowny komunikat zostanie wyświetlony ponownie dopiero po zmianie wartości pola tekstowego.\
-![alt text](screeny/home_2.png)
+![alt text](screeny/home-alert.png)
 
 ### TodoList
 Todolist zawiera liste zadań do wykonania ([List](https://material-ui.com/components/lists/#lists)). Każde zadanie można oznaczyć jako wykonane poprzez zaznaczenie checkboxa. \

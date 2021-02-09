@@ -5,6 +5,8 @@ import { makeStyles } from '@material-ui/core/styles';
 import BottomNavigation from '@material-ui/core/BottomNavigation';
 import BottomNavigationAction from '@material-ui/core/BottomNavigationAction';
 import HomeIcon from '@material-ui/icons/Home';
+import PlaylistAddCheckIcon from '@material-ui/icons/PlaylistAddCheck';
+import ImageIcon from '@material-ui/icons/Image';
 
 
 const useStyles = makeStyles({
@@ -19,8 +21,8 @@ const useStyles = makeStyles({
 
 const links = [
   { id: 0, href: "/", label: "Home", icon: <HomeIcon /> },
-  { id: 1, href: '/todolist', label: "Todo list", icon: <HomeIcon /> },
-  { id: 2, href: '/gallery', label: "Gallery", icon: <HomeIcon /> },
+  { id: 1, href: '/todolist', label: "Todo list", icon: <PlaylistAddCheckIcon /> },
+  { id: 2, href: '/gallery', label: "Gallery", icon: <ImageIcon /> },
 ];
 
 export default function SimpleBottomNavigation() {

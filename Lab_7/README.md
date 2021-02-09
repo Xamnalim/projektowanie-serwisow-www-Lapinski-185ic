@@ -17,15 +17,15 @@ Na "szczycie" każdej strony zostaje wyświetlony tytuł informujący gdzie aktu
 
 ### Home
 Home zawiera proste pole tekstowe ([TextField](https://material-ui.com/components/text-fields/#text-field)) które "prosi" o imię użytkownika.
-Komponent ten został podpięty do [ClickAwayListener](https://material-ui.com/components/click-away-listener/#click-away-listener), dzięki czemu po wyjściu z pola tekstowego na stronie zostanie wyświetlony komunikat ([Snackbar](https://material-ui.com/components/snackbars/#snackbar)). Ponowny komunikat zostanie wyświetlony ponownie dopiero po zmianie wartości pola tekstowego.
+Komponent ten został podpięty do [ClickAwayListener](https://material-ui.com/components/click-away-listener/#click-away-listener), dzięki czemu po wyjściu z pola tekstowego na stronie zostanie wyświetlony komunikat ([Snackbar](https://material-ui.com/components/snackbars/#snackbar)). Ponowny komunikat zostanie wyświetlony ponownie dopiero po zmianie wartości pola tekstowego.\
 ![alt text](screeny/home_2.png)
 
 ### TodoList
-Todolist zawiera liste zadań do wykonania ([List](https://material-ui.com/components/lists/#lists)). Każde zadanie można oznaczyć jako wykonane poprzez zaznaczenie checkboxa. 
+Todolist zawiera liste zadań do wykonania ([List](https://material-ui.com/components/lists/#lists)). Każde zadanie można oznaczyć jako wykonane poprzez zaznaczenie checkboxa. \
 ![alt text](screeny/todo_list.png)
 
 ### Gallery
-W galerii umieściłem kartę ([Card](https://material-ui.com/components/cards/#card)) zawierającą zdjęcie razem z krótkim jego podpisem i przycisk przekierowujący do zewnętrznej strony.
+W galerii umieściłem kartę ([Card](https://material-ui.com/components/cards/#card)) zawierającą zdjęcie razem z krótkim jego podpisem i przycisk przekierowujący do zewnętrznej strony.\
 ![alt text](screeny/gallery.png)
 
 Dodatkowo korzystałem jeszcze z takich komponentów jak [Container](https://material-ui.com/components/container/#container), [Box](https://material-ui.com/components/box/#box), [Icons](https://material-ui.com/components/material-icons/).

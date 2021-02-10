@@ -51,6 +51,26 @@ export default function calculate(obj, buttonName) {
     };
   }
 
+  if (buttonName === "SQ") {
+    if (obj.next) {
+      return { next: (parseFloat(obj.next) * parseFloat(obj.next)).toString() };
+    }
+    if (obj.total) {
+      return { total: (parseFloat(obj.next) * parseFloat(obj.total)).toString() };
+    }
+    return {};
+  }
+
+  if (buttonName === "SQRT") {
+    if (obj.next) {
+      return { next: (Math.sqrt(parseFloat(obj.next))).toString() };
+    }
+    if (obj.total) {
+      return { total: (Math.sqrt(parseFloat(obj.next))).toString() };
+    }
+    return {};
+  }
+
   if (buttonName === "%") {
     if (obj.operation && obj.next) {
       const result = operate(obj.total, obj.next, obj.operation);
